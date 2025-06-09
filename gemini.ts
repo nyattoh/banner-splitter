@@ -1,0 +1,1 @@
+bash\n    git clone <repo_url>\n    cd banner-splitter\n
