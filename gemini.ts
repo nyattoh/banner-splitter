@@ -1,0 +1,1 @@
+bash\n    docker compose up --build\n
