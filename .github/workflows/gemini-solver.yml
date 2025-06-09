@@ -31,7 +31,7 @@ jobs:
           dry-run: 'false'
           run-tests: 'true'
           # 必要に応じて以下のオプションも設定可能:
-          gemini-model: 'gemini-2.5-pro-preview-06-05'  # 高精度モデルを使用
+          # gemini-model: 'gemini-2.5-pro-preview-06-05'  # 高精度モデルを使用
           # enable-review: 'false'
           # run-linter: 'false'
           # strict-mode: 'false'
